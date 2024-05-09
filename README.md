@@ -2,10 +2,6 @@
 
 A new Flutter project.
 
-
-![Screenshot_1708188867](https://github.com/tanojsaipraveen/LocationSearch/assets/47939411/3d6a2bce-855f-46a7-9237-190a1632d729)
-
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
